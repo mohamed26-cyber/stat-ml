@@ -173,7 +173,7 @@ QUESTION 1: Comprenez bien chaque partie du code en vous attardant sur :
                    differents noyaux utilises et la taille des blocs 
                    lors de leur appel. 
 
-QUESTION 2: Comparez les temps de calucul entre la multiplication CPU et
+QUESTION 2: Comparez les temps de calcul entre la multiplication CPU et
             celles GPU (relancez plusieurs fois les calculs car les temps
             d'execution peuvent etres très variables d'une fois sur l'autre en
             fonction de l'utilisation du PC/serveur. Gardez alors les temps les
